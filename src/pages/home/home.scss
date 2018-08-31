@@ -1,3 +1,12 @@
-page-home {
+.radiox{
+   width:96px;
+   height:96px;
+   border-radius: 0.8em;
+   border:solid 4px #9e9e9e;
+   filter: saturate(0%) opacity(50%);
+}
 
+.radio-select{
+    border-color:#ff5a3d;
+    filter: none;
 }
